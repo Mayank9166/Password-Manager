@@ -6,8 +6,8 @@ const Navbar = () => {
       <div className="flex justify-between items-center px-4 py-5 h-14 mycontainer">
         <div className="logo font-bold text-2xl">
           <span className='text-green-700'>&lt;</span>
-          Pass
-          <span className='text-green-700'>OP /&gt;</span>
+          Sheild
+          <span className='text-green-700'>Pass/&gt;</span>
         </div>
 
         <a 

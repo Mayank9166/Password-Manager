@@ -72,8 +72,8 @@ const Manager = () => {
       <div className=" bg-green-50 mycontainer text-xl">
         <h1 className="text-4xl font-bold text-center">
           <span className="text-green-700">&lt;</span>
-          Pass
-          <span className="text-green-700">OP /&gt;</span>
+          Shield
+          <span className="text-green-700">Pass /&gt;</span>
         </h1>
         <p className="text-green-900 text-center text-lg">
           Your Own Password Manager
